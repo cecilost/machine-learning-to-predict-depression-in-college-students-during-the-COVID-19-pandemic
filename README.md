@@ -1,0 +1,2 @@
+# machine-learning-to-predict-depression-in-college-students-during-the-COVID-19-pandemic
+These scripts were used for the data analysis process used in our paper ("Machine Learning Models Predict the Emergence of Depression in Argentinean College Students during Periods of COVID-19 Quarantine"). This ML models predict depression in college students as a classification task and as a regression task.
