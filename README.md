@@ -32,6 +32,8 @@ The complete dataset is available in the Open Science Framework (OSF) repository
 
 If you use this script please cite our paper:López Steinmetz LC, Sison M, Zhumagambetov R, Godoy JC, Haufe S (submitted). Machine Learning Models Predict the Emergence of Depression in Argentinean College Students during Periods of COVID-19 Quarantine. (update the complete reference to cite this paper).
 
+Currently, this paper is available as a pre-print: Lorena Cecilia Lopez Steinmetz, Margarita Sison, Rustam Zhumagambetov, Juan Carlos Godoy, Stefan Haufe (2024). Machine Learning Models Predict the Emergence of Depression in Argentinean College Students during Periods of COVID-19 Quarantine. medRxiv 2024.01.25.24301772; doi: https://doi.org/10.1101/2024.01.25.24301772
+
 
 
 If you use this dataset please cite our paper: López Steinmetz LC, Godoy JC, Fong SB. A longitudinal study on depression and anxiety in college students during the first 106-days of the lengthy Argentinean quarantine for the COVID-19 pandemic. Ment Health. 2023 Dec;32(6):1030-1039. doi: https://doi.org/10.1080/09638237.2021.1952952. Epub 2021 Jul 24. PMID: 34304678.
